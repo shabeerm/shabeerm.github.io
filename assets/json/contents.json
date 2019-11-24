@@ -1,8 +1,13 @@
 {
     "Me": {
         "Name": "Shabeer M",
-        "HeadLine": "4+ Years Experienced Full Stack Software Developer and Social Media Marketing",
+        "HeadLine": "4+ Years Experienced Full Stack Software Developer and Travel Domain Expert",
         "About1": "Coolest Geek !",
-        "About2": "Coolest Geek !"
+        "About2": "Coolest Geek !",
+        "ResumeLink":"https://docs.google.com/document/d/1JiR6McrOmGL6FUqtoYgTnsS4HtaE1MYsf2EaZtm4sts/edit?usp=sharing",
+        "Address":"Shk. Rashid Bin Saeed St <br> Abu Dhabi",
+        "Phone":"Call - (+91) 9895520499",
+        "Email":"Mail - mknshabeer@gmail.com",
+        "Skype":"Skype - mknshabeer"
     }
 }
